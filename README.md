@@ -7,6 +7,10 @@ This repository contains the implementation of the paper "Analysis and forecasti
 - **Analysis:** Explore the time series data to understand patterns, trends, and potential seasonality.
 - **Forecasting:** Utilize the ARIMA model to make predictions for future time points based on historical observations.
 
+## Article
+
+Read the detailed article, that you can find in the documents folder, for insights into the project methodology, findings, and implications.
+
 ## Key Features
 
 - **ARIMA Modeling:** Application of the ARIMA algorithm for time series analysis and forecasting.
